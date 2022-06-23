@@ -1,0 +1,16 @@
+.button{
+    width: 100px;
+    height: 50px;
+    margin: 20px;
+    font-size: medium;
+    font-weight: 700px;
+    color: aliceblue;
+    background-color: black;
+    border-radius: 50px;
+    
+    
+}
+.anim{
+    box-shadow: 0 15px 18px 0 turquoise;
+    opacity: 0.5;
+}
